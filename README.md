@@ -4,7 +4,7 @@
 - 💻 I love web development and DSA
 - 📈 Solved 50+ LeetCode problems
 - 🔨 Projects: Mentor Connect, Notes App, E-commerce Platform
-- 🌱 Currently learning Node.js and GitHub collaboration
+- 🌱 Currently learning React.js and GitHub collaboration
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanmaheshwari1502&layout=compact)
