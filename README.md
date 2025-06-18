@@ -7,6 +7,8 @@
 - 🌱 Currently learning Node.js and GitHub collaboration
 
 ## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanmaheshwari1502&layout=compact)
+
 ![Ketan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketanmaheshwari1502&show_icons=true&theme=radical)
 
 
