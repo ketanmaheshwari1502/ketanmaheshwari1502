@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Ketan Maheshwari
+
+- 🎓 CSE Student at Medi-Caps University
+- 💻 I love web development and DSA
+- 📈 Solved 50+ LeetCode problems
+- 🔨 Projects: Mentor Connect, Notes App, E-commerce Platform
+- 🌱 Currently learning Node.js and GitHub collaboration
+
+## 📊 GitHub Stats
+![Ketan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketanmaheshwari1502&show_icons=true&theme=radical)
+
 
 <!--
 **ketanmaheshwari1502/ketanmaheshwari1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
